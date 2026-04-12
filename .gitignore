@@ -1,0 +1,17 @@
+# PyInstaller
+build/
+dist/
+*.spec.bak
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# PDFs de teste e saída
+difal testes 11/
+Juntar difals/
+
+# Arquivos temporários
+*.tmp
+jntdf.txt
