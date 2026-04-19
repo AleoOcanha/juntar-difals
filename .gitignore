@@ -1,17 +1,16 @@
 # PyInstaller
 build/
 dist/
-*.spec.bak
+*.spec
 
 # Python
 __pycache__/
-*.pyc
+*.py[cod]
 *.pyo
 
-# PDFs de teste e saída
+# Arquivos locais
+"Anotações juntardifals.txt"
+"Code funcionando - Juntar Difals v2 2.txt"
 difal testes 11/
-Juntar difals/
-
-# Arquivos temporários
-*.tmp
-jntdf.txt
+versao 1/
+versao 2/
